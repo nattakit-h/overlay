@@ -1,1 +1,0 @@
-Nattakit's Gentoo Overlay

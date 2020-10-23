@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[nattakit]]></name>
+    <description lang="en"><![CDATA[Nattakit's Overlay]]></description>
+    <homepage>https://github.com/nattakit-h/overlay</homepage>
+    <owner type="person">
+      <email>nattakit@hosapsin.com</email>
+      <name><![CDATA[Nattakit Hosapsin]]></name>
+    </owner>
+    <source type="git">git://github.com/nattakit-h/overlay.git</source>
+    <feed>http://github.com/nattakit-h/overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
